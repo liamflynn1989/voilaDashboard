@@ -3,5 +3,6 @@ ipywidgets
 scipy
 numpy
 matplotlib
+pygments >=2.4.1
 git+git://github.com/jhconning/renegotiation.git#egg=Contract
 

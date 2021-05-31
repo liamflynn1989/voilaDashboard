@@ -1,4 +1,4 @@
-voila==0.1.6
+voila
 ipywidgets
 scipy
 numpy

@@ -3,7 +3,8 @@ ipywidgets
 scipy
 numpy
 matplotlib
-pygments >=2.4.1
+pandas
+pygments` >=2.4.1
 requests
 voila-gridstack
 git+git://github.com/jhconning/renegotiation.git#egg=Contract

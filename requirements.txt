@@ -4,5 +4,6 @@ scipy
 numpy
 matplotlib
 pygments >=2.4.1
+voila-gridstack
 git+git://github.com/jhconning/renegotiation.git#egg=Contract
 
